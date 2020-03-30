@@ -7,7 +7,7 @@
 </head>
 <body>
 <form>
-    <input type="text" name="email"></input>
+    <input type="email" name="email"></input>
     <button>verstuur</button>
 </form>
 </body>
